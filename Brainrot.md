@@ -8,8 +8,8 @@ I'm frustrated by brainrot words, but not in the way that you think.
 For context, I don't have TikTok or Instagram, so I only learned about brainrot through my friends.
 Before I knew what it was, I knew that everyone my age hated it.
 
-I don't really have the same reaction as other people when I hear some gen $\alpha$ toddler say "you're so skibidi", so I'm going to do some digging and figure this whole brainrot thing out.
-But there's sort of an inherent contradiction in taking brainrot language seriously, right?
+I don't really have the same reaction as other people when I hear some gen $\alpha$ toddler say "you're so skibidi", so let's figure this whole brainrot thing out.
+There's sort of an inherent contradiction in taking brainrot language seriously, right?
 It's supposed to be incomprehensible.
 
 For this reason, it's sorta hard to actually pin down what brainrot is. 
@@ -22,6 +22,7 @@ In the above quote, brainrot refers to something that, uh, rots your brain.
 Contrast this to the meaning of the word today: Brainrot refers to a specific set of trends.
 > Previously, brainrot meant "media that rots your brain".
 > Now, brainrot means "skibidi toilet" and associated words.
+> It no longer just signifies "a thing that rots your brain", it refers to a specific vocabulary.
 
 When I talk about brainrot nowadays, iPad kids and sigma edits populate your noggin.
 Current day brainrot is an amalgamation of words, phrases, and media associated with the youngest among us ඞ.
@@ -49,7 +50,7 @@ It's meaningless in the same way that "H-E-Double-Hockeysticks" or other your ot
 
 > Consider the phrase: What the heck?
 >
-> Heck doesn't really have a meaning in this context. What is a heck? Even if we were to replace heck with its no-no word counterpart, h*ll doesn't really mean anything in that context anyways. It certainly isn't referring to the land of the damned.
+> Heck doesn't really have a meaning in this context. What is a heck? Even if we were to replace heck with its no-no word counterpart, h*ll doesn't really mean anything in that context either. It certainly isn't referring to the land of the damned.
 >
 > While "Damn it!" might denotatively be the same as "Condemn it", the person who says "Damn it!" is not trying to condemn something at all, but instead expressing frustration.
 > This need would be similarly served by saying something like "Dang!" or "Rats!", even though these have different denotative meanings. 
@@ -106,10 +107,22 @@ Brainrot isn't called what it is because gen $\alpha$ thinks it's brainrot, it's
 Brainrot isn't even an inappropriate name, considering how empty the words are, but it's not like we apply that standard to our own memes.
 For example, several of the terms we now consider brainrot (Sigma, Looksmaxxing, Mewing) have been in play for the last several years in language, but we didn't start calling them brainrot until they became associated with gen $\alpha$.
 
+I know that I'm probably taking all of this brainrot business too seriously, but I really think that the committed brainrot haters don't actually understand why it is that they hate brainrot so much.
+I understand the visceral reaction to watching your local iPad kid scroll through Skibidi Toilet TikToks all day.
+But I can't justify why I feel that reaction!
+When I set out to write the beginning of this post about the meaninglessness of brainrot, I thought that I would discover the reason that brainrot words are public enemy #1.
+
+But I didn't: I found a quirk of the language is all.
+That's not the reason everyone hates brainrot!
+I tell people that "brainrot words are the purest simulacras" and their eyes glaze over.
+
+Permit me to be dramatic: When we give in to the brainrot hatred, we are being ruled by our base instints.
+Compose yourself! Get a grip! EMBRACE THE SKIBIDI.
+
 The kids are alright y'all, I promise.
 We were the same way (and we are totally awesome now).
 
-I think I'd like to close out this post with a bit of a hot take: Brainrot is funny, and Skibidi Toilet is creative.
+Brainrot words are kinda funny, and Skibidi Toilet is a creative webseries.
 Maybe I'll write more about this later, but not now.
 But while we've got our collective 42 layers of irony on, indulge in one and have a laugh at some brainrot with me.
 

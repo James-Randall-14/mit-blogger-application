@@ -24,10 +24,10 @@ As an aside, I got that tiny monitor for free from a local middle school which d
 It's a piece of junk, but it works and monitors aint cheap.
 I also may move that vice a couple inches to the right, because sometimes it interferes with the bed of my 3D printer.
 
-Speaking of, I got that printer as a holiday present this past december.
+Speaking of, I got that 3D printer as a holiday present this past december.
 Grandma came over (oh yeah - she lives close by now, more on that later), and I gave her a little tour of everything on the workbench while I assembled the printer.
 I'm not sure how much of it stuck with her.
-You know that tech has never been her thing, but I think she knows what a soldering iron is now.
+You know that tech has never been her thing, but I think she understands what a soldering iron is now.
 And we had a nice moment appreciating the new life that this workbench lives.
 She teared up a little bit and said that "Glynn would've loved to see this".
 I've thought about that a lot, and that's why I'm writing you this letter.
@@ -57,7 +57,7 @@ All of the panel mounts I installed are also rated to withstand immersion in wat
 But now it's full of electronics so I'm not brave (stupid) enough to test it.
 Either way, for my applications, I really only need IP65 waterproofing (which means it can get sprayed with water and still be fine).
 
-<p align="center"><img src="imgs/deck_behind.jpg" alt="My most rece<p align="center"> Backside of the portable server (USB A and USB C covers not pictured) </p>nt project, backside"> </p>
+<p align="center"><img src="imgs/deck_behind.jpg" alt="My most recent project, backside"><p align="center"> Backside of the portable server (USB A and USB C covers not pictured) </p> </p>
 
 
 While we're on the subject of tinkering, last night I taught myself how to sew to fix Alexa's backpack.
@@ -91,6 +91,10 @@ I'm curious about what you have to say.
 
 Anyways, as I get older I notice that I am becoming more and more like you.
 That makes me happy.
+I've got more to say to you, but this letter is getting long enough as is and I know that you hate reading emails.
+I guess a blog is kind of like an email.
+Maybe I'll write you more in the future.
+
 I wish we could've talked more.
 
 <p align="right"> I miss you, </p>

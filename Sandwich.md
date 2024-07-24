@@ -47,7 +47,7 @@ Here's the memo: If you have a solution to the sandwich conundrum that you feel 
 Because it's such a stupid question, it's understandable to want to slam-dunk your answer through the conversation, like Wittgenstein did in the comic above.
 But the sandwich conundrum differs from a normal debate because the goal is not *really* to arrive at the correct conclusion.
 It's goofy small talk (and that's good actually).
-The conversation is the end in itself, not the answer.
+The conversation is the goal in itself, not the answer.
 
 I originally set out to write this post about how a hotdog was definitively not a sandwich. 
 I was going to settle the interminable question. 
@@ -58,6 +58,8 @@ But as I wrote that post, I realized that it really wasn't as pointless as I tho
 
 The sandwich conundrum has an aesthetic of uselessness - who cares if a hotdog is a sandwich?
 But there really is a bit of ingenious purpose to that question - it's a useful meme (in both senses of the word) that has stuck around for a reason.
+
+Answering the question is defeating the point.  
 
 Consider all of the interesting tangents that can spawn from this conversation.
 Don't deprive yourself or the group of those tangents in an effort to actually answer the question itself.
