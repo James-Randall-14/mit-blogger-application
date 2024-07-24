@@ -13,9 +13,9 @@ We set it up in the garage and I moved in. Here's a photo.
 
 I probably use it for very different things than you're used to.
 All of our saws and drills and stuff are still in the shed out back, so I don't actually use the bench for any woodshop.
-But I keep it pretty clean (when I'm not actively using it), and I use it all the time for personal electronics projects.
+But I keep it pretty clean (when I'm not actively using it), and I work there all the time for personal electronics projects.
 When I took the above photo a couple of months ago, I set up some of the test hardware I built for my robotics team.
-You can't see much of it because the photo is so zoomed out, but that big throttle and stick unit is what I use to control it.
+You can't see much of it because the photo is so zoomed out and blurry, but that big throttle and stick unit is what I use to control it.
 
 I've tried not to modify the bench too much, to keep it close to what you would've wanted.
 I took the liberty of drilling some holes in the back pane to route some cables, and obviously I have that monitor desk mount, which doesn't really seem like your style.
@@ -34,7 +34,7 @@ I've thought about that a lot, and that's why I'm writing you this letter.
 
 I've noticed that ever since you died, I've taken after you in a couple of ways.
 I think I'm similarly tinker-y.
-You were always fixing or building something, and I think I've picked that up from you.
+You were always fixing or building something, and I've picked that up from you.
 Here's the most recent fruit of the workbench:
 <p align="center"><img src="imgs/deck.jpg" alt="My most recent project"></p>
 <p align="center"> Portable Server </p>
@@ -57,8 +57,8 @@ All of the panel mounts I installed are also rated to withstand immersion in wat
 But now it's full of electronics so I'm not brave (stupid) enough to test it.
 Either way, for my applications, I really only need IP65 waterproofing (which means it can get sprayed with water and still be fine).
 
-<p align="center"><img src="imgs/deck_behind.jpg" alt="My most recent project, backside"> </p>
-<p align="center"> Backside of the portable server (USB A and USB C covers not pictured) </p>
+<p align="center"><img src="imgs/deck_behind.jpg" alt="My most rece<p align="center"> Backside of the portable server (USB A and USB C covers not pictured) </p>nt project, backside"> </p>
+
 
 While we're on the subject of tinkering, last night I taught myself how to sew to fix Alexa's backpack.
 She's getting a new bag next year because the current one doesn't fit her highschool textbooks, and it has a strap for securing water bottles that broke.
@@ -74,7 +74,7 @@ But I think I understand why you were always so hesitant to leave New York - I s
 I can walk places. I can bike places. I can take the T.
 
 It is ironic, though, that now that we've finally moved almost our whole family out to the west coast, I'm going to MIT, right where great aunt Mimi lives.
-When I was deciding between Stanford and MIT, it's like I was deciding between living next to my grandma, or living next to Mimi.
+When I was deciding between Stanford and MIT, it's like I was deciding between living next to grandma, or living next to Mimi.
 Mom and dad definitely don't see the east coast appeal that I do.
 Maybe it's because they're both born east coasters.
 But so are you, so who knows.

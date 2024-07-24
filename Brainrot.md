@@ -1,7 +1,7 @@
 # What is something you are currently frustrated by?
 
 If you've met me in person, you'll know that I've got kind of a strange fascination with the Generation Alpha brainrot vocabulary.
-Gen $\alpha$ is entering high school next year, so I think it'd be appropriate if I finally poke through some of my thoughts to figure out how I really feel about it.
+Gen $\alpha$ is entering high school next year, so I think it'd be appropriate if I finally poke through some of my thoughts to figure out how I really feel about this lingo.
 
 I'm frustrated by brainrot words, but not in the way that you think.
 
@@ -14,7 +14,7 @@ It's supposed to be incomprehensible.
 
 For this reason, it's sorta hard to actually pin down what brainrot is. 
 The word is a noun, and it's not new.
-Citation needed for this next part, but I feel like, previously, brainrot was a noun used to describe other forms of media by association, whereas today brainrot refers to a culture itself. 
+Previously, brainrot was a word used to describe other forms of media by association, whereas today brainrot refers to a culture itself. 
 For example, in the past, people would say things like: 
 > "Video games, tv, and comics are brainrot".
 
@@ -45,7 +45,7 @@ But most of these words don't really mean anything at all.
 
 When a kid exclaims "What the Skibidi!" they aren't referring to Skibidi Toilet.
 I think that skibidi in this context acts like an expletive.
-It's meaningless in the same way that "H-E-Double-Hockeysticks" or other your other favorite four letter words are meaningless when used this way. 
+It's meaningless in the same way that "H-E-Double-Hockeysticks" or other your other favorite four letter words are meaningless when used in this manner. 
 
 > Consider the phrase: What the heck?
 >
@@ -102,40 +102,15 @@ This is what really frustrates me about brainrot.
 
 Are we really falling for that stupid inter-generational drama again?
 
-Let's consider why it's called "brainrot" anyways.
-
 Brainrot isn't called what it is because gen $\alpha$ thinks it's brainrot, it's called that because gen Z thinks it's brainrot.
-I think that brainrot isn't even an inappropriate name, considering how empty the words are, but it's not like we apply that standard to our own memes.
+Brainrot isn't even an inappropriate name, considering how empty the words are, but it's not like we apply that standard to our own memes.
 For example, several of the terms we now consider brainrot (Sigma, Looksmaxxing, Mewing) have been in play for the last several years in language, but we didn't start calling them brainrot until they became associated with gen $\alpha$.
 
 The kids are alright y'all, I promise.
-We were the same way (and we are totally awesome).
+We were the same way (and we are totally awesome now).
 
 I think I'd like to close out this post with a bit of a hot take: Brainrot is funny, and Skibidi Toilet is creative.
 Maybe I'll write more about this later, but not now.
 But while we've got our collective 42 layers of irony on, indulge in one and have a laugh at some brainrot with me.
 
 Who knows. The next book on my list is *Ecstasy of Communication* by Baudrillard. So maybe I'll read that decide that this whole debacle about meaningless words was pointless anyways.
-
-
----
----
----
----
-## Outline
-What is brainrot?
-- The terms
-- The character
-Why am I frustrated by it?
-- People point to its meaninglessness to post-hoc rationalize their disgust.
-- Often this gets intertwined with fears about teens' social media use. 
-- The generational divide
-- How Gen-Z engages with it
-  - Why it's called brainrot
-  - The reactionary impulse
-- Sometimes I use brainrot terms in ways that make sense and have meaning, eg mogging.  
-- What our memes were like
-
-I've got Baudrillard's *Ecstasy of Communication* on my near-future reading list, so maybe if you ask me in a month I'll say I just made big fuss over nothing and all words are meaningless like brainrot anyways.
-
-Consider that this sort of brainrot really isn't new: https://www.reddit.com/r/unicodecirclejerk/comments/izk1ef/%E0%B6%9E_unicode_among_us_crewmate_symbol/

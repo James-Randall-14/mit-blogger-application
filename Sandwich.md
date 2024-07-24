@@ -38,9 +38,9 @@ Later Wittgenstein is one of my favorite philosophers, and his philosophy provid
 <a href="https://existentialcomics.com/comic/275">Here's</a> another (unrelated) banger about Wittgenstein.)
 
 I have yet to be defeated in a hotdog sandwich conversation when I bring out the later Wittgeinstein. 
-Often we'll veer off into tangentially related topics like the discussing social construction of definitions or contesting whether the dictionary is prescriptive or descriptive, and neglect the original question of sandwichery.
+Often we'll veer off into tangentially related topics like discussing social construction of definitions or contesting whether the dictionary is prescriptive or descriptive, and neglect the original question of sandwichery.
 
-But if I were to spend this post defending the anti-sandwich position, I'd be getting lost in the sauce. I do feel strongly about the anti-sandwich position, but it's not really why I wrote this.
+But if I were to spend this post defending the anti-sandwich position, I'd be getting lost in the sauce. I do feel strongly that a hot dog is not a sandwich, but it's not really why I wrote this.
 
 Here's the memo: If you have a solution to the sandwich conundrum that you feel is bulletproof, you should probably put it in the backseat.
 
@@ -68,5 +68,7 @@ Consider all of the bouts of hysterical laughter.
 Consider the satisfying frustration of debating in circles. 
 Consider the new alliances formed in the conversation, and the bonds strengthened.
 The answer to the sandwich conundrum has never *really* been a yes or no.
+
+People don't ask the question in order to find out if a hotdog is a sandwich. They ask it to form bonds.
 
 The answer is *actually* the friends you made along the way : )
