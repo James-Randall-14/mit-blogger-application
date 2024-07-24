@@ -123,7 +123,4 @@ The kids are alright y'all, I promise.
 We were the same way (and we are totally awesome now).
 
 Brainrot words are kinda funny, and Skibidi Toilet is a creative webseries.
-Maybe I'll write more about this later, but not now.
-But while we've got our collective 42 layers of irony on, indulge in one and have a laugh at some brainrot with me.
-
-Who knows. The next book on my list is *Ecstasy of Communication* by Baudrillard. So maybe I'll read that decide that this whole debacle about meaningless words was pointless anyways.
+While we've got our collective 42 layers of irony on, indulge in one and have a laugh at some brainrot with me.
